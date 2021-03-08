@@ -10,6 +10,14 @@ modified:
 ---
 
 
-## First IMpressions
+## First Impressions
 
-xxxxxxxxxxxxxxxxxxxx
+### An intial proposal
+
+alessandro proposes a metadata standard ...
+
+https://forum.cardano.org/t/cip-nft-metadata-standard/45687
+
+
+
+
