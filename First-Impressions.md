@@ -38,7 +38,7 @@ Query : Will not the Cardano computation layer (CCL) allow for unique token atta
 
 https://medium.com/@kurtcagle/the-coming-merger-of-blockchain-and-knowledge-graphs-685e052c614c
 
+> Graph Databses
 
-
-
+https://en.wikipedia.org/wiki/Graph_database
 
