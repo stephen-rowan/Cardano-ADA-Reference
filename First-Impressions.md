@@ -11,6 +11,15 @@ modified:
 
 # First Impressions
 
+## Project Catalyst : Comprehensive NFT Framework Collab
+
+https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088#idea-tab-comments
+
+## DAO NFT-Metadata github
+
+https://github.com/NFT-DAO/NFT-Metadata
+
+
 ## An intial proposal
 
 alessandro proposes a metadata standard ...
