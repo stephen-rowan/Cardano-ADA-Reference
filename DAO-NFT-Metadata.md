@@ -94,7 +94,7 @@ https://medium.com/@kurtcagle/the-coming-merger-of-blockchain-and-knowledge-grap
 
 https://docs.ipld.io/
 
-> Graph Databses
+> Graph Databases
 
 https://en.wikipedia.org/wiki/Graph_database
 
