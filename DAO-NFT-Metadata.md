@@ -33,7 +33,7 @@ Query : Will not the Cardano computation layer (CCL) allow for unique token atta
 > 
 
 
-# Current Metadata standards in progress
+# Other Current Metadata standards in progress
 
 ## Progress report: Interchain NFT+Metadata Standards
 
