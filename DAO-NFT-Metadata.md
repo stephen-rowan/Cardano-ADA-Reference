@@ -33,6 +33,13 @@ Query : Will not the Cardano computation layer (CCL) allow for unique token atta
 > 
 
 
+### References
+
+> Native Custom Tokens in the Extended UTXO Model
+
+https://hydra.iohk.io/build/5400786/download/1/eutxoma.pdf
+
+
 # Other Current Metadata standards in progress
 
 ## Progress report: Interchain NFT+Metadata Standards
