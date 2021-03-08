@@ -1,5 +1,5 @@
 ---
-title: First-Impressions
+title: DAO-NFT-Metadata
 stage: draft
 category: Cardano-NFT-DAO-Notes
 kind: Requirements
