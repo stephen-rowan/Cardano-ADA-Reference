@@ -21,6 +21,7 @@ https://forum.cardano.org/t/cip-nft-metadata-standard/45687
 > 
 
 Query : How will the Cardano smart contract upgrade affect this situation ? 
+
 Query : Will not the Cardano computation layer (CCL) allow for unique token attachments with the Cardano settlement layer (CSL) ?
 
 
