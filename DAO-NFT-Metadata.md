@@ -67,6 +67,8 @@ https://docs.google.com/document/d/1eKV7yPE3ng4SPSBW5uxLn_THaUMKL8vi5FBMWExUZ8s
 
 ## Progress report: Interchain NFT+Metadata Standards
 
+> The InterNFT Working Group is drafting a set of Interchain standards that will advance the state of the art for Non-fungible Tokens and the Metadata associated with uniquely identified tokenised resources. Our mission is to make NFTs interoperable across blockchain networks and to enable ownership, control and rights management of NFT metadata and linked resources, regardless of where these are located.
+
 https://blog.cosmos.network/progress-report-interchain-nft-metadata-standards-94770dfe3bb1
 
 Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
