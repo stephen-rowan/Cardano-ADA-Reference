@@ -33,6 +33,10 @@ Query : Will not the Cardano computation layer (CCL) allow for unique token atta
 > 
 
 
+> a fully worked example of comprehensive JSON-LD Semantic Web/Metadata for digital archiving of photos see this little demo prototype from many years ago https://tgalib.github.io/ 
+
+> Each page is rendered directly from the descriptive metadata see https://github.com/tgalib/ao-682b8dc3-1c9b-4752-96f4-97545f91be18/tree/archiveobject 
+
 ### References
 
 > Native Custom Tokens in the Extended UTXO Model
