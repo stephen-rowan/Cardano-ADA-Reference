@@ -8,19 +8,19 @@ created:
 modified: 
 ---
 
-
-# First Impressions
-
-## Project Catalyst : Comprehensive NFT Framework Collab
+# Project Catalyst : Comprehensive NFT Framework Collab
 
 https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088#idea-tab-comments
+
+
+# DAO NFT-Metadata
 
 ## DAO NFT-Metadata github
 
 https://github.com/NFT-DAO/NFT-Metadata
 
 
-## An intial proposal
+## An intial Metadata proposal
 
 alessandro proposes a metadata standard ...
 
@@ -38,7 +38,7 @@ Query : Will not the Cardano computation layer (CCL) allow for unique token atta
 > 
 
 
-# Current standards in progress
+# Current Metadata standards in progress
 
 ## Progress report: Interchain NFT+Metadata Standards
 
@@ -48,7 +48,7 @@ Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
 
 
 
-# Further Reading
+# Further Metadata Reading
 
 > The Coming Merger of Blockchain and Knowledge Graphs
 > 
