@@ -40,6 +40,14 @@ Query : Will not the Cardano computation layer (CCL) allow for unique token atta
 https://hydra.iohk.io/build/5400786/download/1/eutxoma.pdf
 
 
+# Open Standards
+
+Open Standards (W3C) for Cardano (In Reserve)
+
+https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
+
+
+
 # Other Current Metadata standards in progress
 
 ## Progress report: Interchain NFT+Metadata Standards
