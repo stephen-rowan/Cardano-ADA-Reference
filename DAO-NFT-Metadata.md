@@ -82,6 +82,11 @@ https://medium.com/blockchain-manchester/erc-721-metadata-standards-and-ipfs-94b
 
 https://medium.com/@kurtcagle/the-coming-merger-of-blockchain-and-knowledge-graphs-685e052c614c
 
+
+# InterPlanetary Linked Data
+
+https://docs.ipld.io/
+
 > Graph Databses
 
 https://en.wikipedia.org/wiki/Graph_database
