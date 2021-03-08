@@ -46,14 +46,14 @@ https://hydra.iohk.io/build/5400786/download/1/eutxoma.pdf
 
 # Open Standards
 
-> SofiH - Open Standards (W3C) for Cardano (In Reserve)
+> @SofiH - Open Standards (W3C) for Cardano (In Reserve)
 
 https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
 
 
 # Use Cases
 
-> wolstaeb - Art is not just the visual presentation (physical or digital) but the idea of the artwork. The best example of this is Comedian by Maurizio Cattelan
+> @wolstaeb - Art is not just the visual presentation (physical or digital) but the idea of the artwork. The best example of this is Comedian by Maurizio Cattelan
 > 
 > https://en.wikipedia.org/wiki/Comedian_(artwork). 
 > 
