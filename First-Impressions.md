@@ -1,8 +1,7 @@
 ---
-Cardano-NFT-DAO-Notes
 title: First-Impressions
 stage: draft
-category: NFT/USECASES
+category: Cardano-NFT-DAO-Notes
 kind: Requirements
 author: Stephen Whitenstall
 created: 
