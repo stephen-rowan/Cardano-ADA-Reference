@@ -10,7 +10,7 @@ modified:
 
 # DAO NFT-Metadata
 
-## DAO NFT-Metadata github
+## The DAO NFT-Metadata github
 
 https://github.com/NFT-DAO/NFT-Metadata
 
