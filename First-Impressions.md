@@ -9,9 +9,9 @@ modified:
 ---
 
 
-## First Impressions
+# First Impressions
 
-### An intial proposal
+## An intial proposal
 
 alessandro proposes a metadata standard ...
 
@@ -29,9 +29,17 @@ Query : Will not the Cardano computation layer (CCL) allow for unique token atta
 > 
 
 
+# Current standards in progress
+
+## Progress report: Interchain NFT+Metadata Standards
+
+https://blog.cosmos.network/progress-report-interchain-nft-metadata-standards-94770dfe3bb1
+
+Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
 
 
-## Further Reading
+
+# Further Reading
 
 > The Coming Merger of Blockchain and Knowledge Graphs
 > 
