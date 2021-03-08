@@ -53,7 +53,9 @@ https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
 
 # Use Cases
 
-> wolstaeb - Art is not just the visual presentation (physical or digital) but the idea of the artwork. The best example of this is Comedian by Maurizio Cattelan https://en.wikipedia.org/wiki/Comedian_(artwork). 
+> wolstaeb - Art is not just the visual presentation (physical or digital) but the idea of the artwork. The best example of this is Comedian by Maurizio Cattelan
+> 
+> https://en.wikipedia.org/wiki/Comedian_(artwork). 
 
 
 # Other Current Metadata standards in progress
