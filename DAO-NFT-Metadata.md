@@ -39,14 +39,14 @@ Query : Will not the Cardano computation layer (CCL) allow for unique token atta
 
 ### References
 
-> SofiH - Native Custom Tokens in the Extended UTXO Model
+> Native Custom Tokens in the Extended UTXO Model
 
 https://hydra.iohk.io/build/5400786/download/1/eutxoma.pdf
 
 
 # Open Standards
 
-Open Standards (W3C) for Cardano (In Reserve)
+> SofiH - Open Standards (W3C) for Cardano (In Reserve)
 
 https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
 
@@ -71,7 +71,7 @@ Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
 
 ### ERC-721 metadata standards and IPFS
 
-How BlockRocket & KnownOrigin utilises ERC-721 metadata & IPFS to build a digital assets marketplace 
+> How BlockRocket & KnownOrigin utilises ERC-721 metadata & IPFS to build a digital assets marketplace 
 https://medium.com/blockchain-manchester/erc-721-metadata-standards-and-ipfs-94b01fea2a89
 
 
