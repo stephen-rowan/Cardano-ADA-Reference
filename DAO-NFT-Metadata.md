@@ -42,6 +42,13 @@ https://blog.cosmos.network/progress-report-interchain-nft-metadata-standards-94
 Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
 
 
+## Ethereum
+
+### ERC-721 metadata standards and IPFS
+
+How BlockRocket & KnownOrigin utilises ERC-721 metadata & IPFS to build a digital assets marketplace 
+https://medium.com/blockchain-manchester/erc-721-metadata-standards-and-ipfs-94b01fea2a89
+
 
 # Further Metadata Reading
 
