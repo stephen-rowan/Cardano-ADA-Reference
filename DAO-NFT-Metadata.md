@@ -17,13 +17,13 @@ modified:
 
 [Open Standards](#open-standards)
 
-[Use Cases]()
+[Use Cases](#use-cases)
 
-[Current NFT-DAO Meeting Notes]()
+[Current NFT-DAO Meeting Notes](#current-nft-dao-meeting-notes)
 
-[Other Current Metadata standards in progress]()
+[Other Current Metadata standards in progress](#other-current-metadata-standards-in-progress)
 
-[Further Metadata Reading]()
+[Further Metadata Reading](#further-metadata-reading)
 
 
 ## The DAO NFT-Metadata github
