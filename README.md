@@ -5,6 +5,9 @@ The NFT DAO Collaboration is an initiative to bring Non Fungible Token (NFT) cap
 
 
 ## Project Catalyst : A Comprehensive Non Fungible Token (NFT) Framework Collaboration
+
+The Comprehensive Non Fungible Token (NFT) Framework Collaboration is part of Project Catalyst Fund 3 (explain) ...
+
 > https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088
 
 
