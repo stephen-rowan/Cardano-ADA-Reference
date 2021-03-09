@@ -54,6 +54,7 @@ https://forum.cardano.org/t/cip-nft-metadata-standard/45687
 > @alessandro [BERRY] - Cardano has the ability to send metadata in a transaction, that’s the way we can create a link between a token and the metadata. To make the metadata unique to the token, they should be appended to the same transaction, where the token forge happens ..
 > 
 
+**Note** : In 'Formal Specification of the Cardano Ledger with a NativeMulti-Asset Implementation' the concept of the coin (Shelley era) is replaced with the concept of value (Goguen era) ...
 
 > @alessandro [BERRY] - a fully worked example of comprehensive JSON-LD Semantic Web/Metadata for digital archiving of photos see this little demo prototype from many years ago https://tgalib.github.io/ 
 
