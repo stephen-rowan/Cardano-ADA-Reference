@@ -1,4 +1,10 @@
-# Project Catalyst : A Comprehensive Non Fungible Token (NFT) Framework Collaboration
+
+# Cardano NFT DAO
+
+The NFT DAO Collaboration is an initiative to bring Non Fungible Token (NFT) capability to [Cardano](https://cardano.org/) using a Distributed Autonmous Organisational model.
+
+
+## Project Catalyst : A Comprehensive Non Fungible Token (NFT) Framework Collaboration
 > https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088
 
 
