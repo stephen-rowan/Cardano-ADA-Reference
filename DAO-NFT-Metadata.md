@@ -112,23 +112,23 @@ https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
 
 2. Global schema
 
-* > **Query** Addressed in cross-chain working party ?
+* > **Query** : Addressed in cross-chain working party ?
 
 3. NFT schema
 
-* > **Query** A basic goguon spefic schema that mirrors the shift from "coin" to "value" ?
+* > **Query** : A basic goguon spefic schema that mirrors the shift from "coin" to "value" ?
 
 4. Define different levels of schema
 
-* > **Query** Different levels or multiple schema capability ?
+* > **Query** : Different levels or multiple schema capability ?
 
 5. How is metadata structured.
 
-* > **Note** Ongoing - something like RDF (Resource Description Framework) is proposed.
+* > **Note** : Ongoing - something like RDF (Resource Description Framework) is proposed.
 
 6. What needs to be on-chain.  What needs to be off-chain
 
-* > **Query** Clarify how "on-chain" and "off-chain" corresponds to goguon multi-asset paradigm.
+* > **Query** : Clarify how "on-chain" and "off-chain" corresponds to goguon multi-asset paradigm.
 
 
 https://docs.google.com/document/d/1eKV7yPE3ng4SPSBW5uxLn_THaUMKL8vi5FBMWExUZ8s
