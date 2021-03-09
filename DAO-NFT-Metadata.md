@@ -56,6 +56,10 @@ https://hydra.iohk.io/build/5400786/download/1/eutxoma.pdf
 
 https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/).
 
+> Formal Specification of the Cardano Ledger with a NativeMulti-Asset Implementation
+
+https://hydra.iohk.io/build/5737360/download/1/shelley-ma.pdf
+
 
 # Open Standards
 
