@@ -28,7 +28,9 @@ Query : How will the Cardano smart contract upgrade affect this situation ?
 
 Query : Will not the Cardano computation layer (CCL) allow for unique token attachments with the Cardano settlement layer (CSL) ?
 
-Note : The parsimonious UTxO ledger only applies to the CCL which can only provide for token exchange (no native smart contracts or accounting). Whilst the CSL allows for verbose contracts.
+Note : The parsimonious UTxO ledger only applies to the CCL which can only provide for token exchange (no native smart contracts or accounting). Whilst the CSL allows for verbose contracts. 
+
+Note : This paper expands upon the UTxO ledger paradigm contrasting it with Ethereum's account model and proposes an extended EUTXO in Goguen (https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/).
 
 
 > @alessandro [BERRY] - Cardano has the ability to send metadata in a transaction, that’s the way we can create a link between a token and the metadata. To make the metadata unique to the token, they should be appended to the same transaction, where the token forge happens ..
