@@ -181,17 +181,14 @@ https://medium.com/blockchain-manchester/erc-721-metadata-standards-and-ipfs-94b
 https://en.wikipedia.org/wiki/Graph_database
 
 
-> Framework and algorithms for identifying honest blocks in blockchain
-> 
+* Framework and algorithms for identifying honest blocks in blockchain
+ 
 > "Blockchain with directed acyclic graph structure (BlockDAG) is proposed in order to alleviate the scalability problem."
+> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227531
 
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227531
 
+* Fluree graph database integrated with blockchain. Handles cases of immutability and supports RDF
 
-> Fluree graph database integrated with blockchain. Handles cases of immutability and supports RDF
-
-https://flur.ee/
-
+> https://flur.ee/
 > More detail in this article:
-
-https://www.zdnet.com/article/fluree-the-graph-database-with-blockchain-inside-goes-open-source/
+> https://www.zdnet.com/article/fluree-the-graph-database-with-blockchain-inside-goes-open-source/
