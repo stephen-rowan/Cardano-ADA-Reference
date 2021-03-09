@@ -10,6 +10,8 @@ modified:
 
 # DAO NFT-Metadata
 
+***
+
 # Contents
 [The DAO NFT-Metadata github](#the-dao-nft-metadata-github)
 
@@ -25,6 +27,7 @@ modified:
 
 [Further Metadata Reading](#further-metadata-reading)
 
+***
 
 ## The DAO NFT-Metadata github
 
