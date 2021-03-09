@@ -12,6 +12,12 @@ modified:
 
 # Contents
 [The DAO NFT-Metadata github](#the-dao-nft-metadata-github)
+[An intial Metadata proposal]()
+[Open Standards]()
+[Use Cases]()
+[Current NFT-DAO Meeting Notes]()
+[Other Current Metadata standards in progress]()
+[Further Metadata Reading]()
 
 
 ## The DAO NFT-Metadata github
@@ -81,7 +87,9 @@ https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
 > https://en.wikipedia.org/wiki/Comedian_(artwork). 
 > 
 
-# Metadata / Schema Notes 2/25/2021
+# Current NFT-DAO Meeting Notes
+
+## Metadata / Schema Notes 2/25/2021
 
 https://docs.google.com/document/d/1eKV7yPE3ng4SPSBW5uxLn_THaUMKL8vi5FBMWExUZ8s
 
