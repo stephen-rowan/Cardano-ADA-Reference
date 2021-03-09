@@ -42,13 +42,13 @@ https://forum.cardano.org/t/cip-nft-metadata-standard/45687
 > @alessandro [BERRY] - Tokens on Cardano are a part of the ledger. Unlike on Ethereum, where metadata can be attached to a token through a smart contract, this isn’t possible on Cardano because tokens are native and Cardano uses an UTxO ledger, which makes it hard to directly attach metadata to a token.
 > 
 
-Query : How will the Cardano smart contract upgrade affect this situation ? 
+**Query** : How will the Cardano smart contract upgrade affect this situation ? 
 
-Query : Will not the Cardano computation layer (CCL) allow for unique token attachments with the Cardano settlement layer (CSL) ?
+**Query** : Will not the Cardano computation layer (CCL) allow for unique token attachments with the Cardano settlement layer (CSL) ?
 
-Note : The parsimonious UTxO ledger only applies to the CCL which can only provide for token exchange (no native smart contracts or accounting). Whilst the CSL allows for verbose contracts. 
+**Note** : The parsimonious UTxO ledger only applies to the CCL which can only provide for token exchange (no native smart contracts or accounting). Whilst the CSL allows for verbose contracts. 
 
-Note : This paper expands upon the UTxO ledger paradigm contrasting it with Ethereum's account model and proposes an extended EUTXO in Goguen (https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/).
+**Note** : This paper expands upon the UTxO ledger paradigm contrasting it with Ethereum's account model and proposes an extended EUTXO in Goguen (https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/).
 
 
 > @alessandro [BERRY] - Cardano has the ability to send metadata in a transaction, that’s the way we can create a link between a token and the metadata. To make the metadata unique to the token, they should be appended to the same transaction, where the token forge happens ..
