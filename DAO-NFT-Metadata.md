@@ -181,3 +181,8 @@ https://docs.ipld.io/
 
 https://en.wikipedia.org/wiki/Graph_database
 
+
+> Framework and algorithms for identifying honest blocks in blockchain
+> "Blockchain with directed acyclic graph structure (BlockDAG) is proposed in order to alleviate the scalability problem."
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227531
