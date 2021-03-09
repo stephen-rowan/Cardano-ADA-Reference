@@ -11,6 +11,8 @@ Further detail on the Comprehensive Non Fungible Token (NFT) Framework Collabora
 # Contents
 
 [Metadata](/Metadata/README.md)
+> This folder contains documentation on Cardano NFT-DAO Metadata subject area.
 
-[An intial Metadata proposal](#an-intial-metadata-proposal)
+[Media](/Media/README.md)
+> This folder contains documentation on Cardano NFT-DAO Media (Videos of meetings etc.)
 
