@@ -41,6 +41,11 @@ Note : The parsimonious UTxO ledger only applies to the CCL which can only provi
 
 ### References
 
+> Cardano Ledger Specs
+
+https://github.com/input-output-hk/cardano-ledger-specs
+
+
 > Native Custom Tokens in the Extended UTXO Model
 
 https://hydra.iohk.io/build/5400786/download/1/eutxoma.pdf
