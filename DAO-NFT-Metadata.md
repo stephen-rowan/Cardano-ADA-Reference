@@ -52,6 +52,10 @@ https://github.com/input-output-hk/cardano-ledger-specs
 
 https://hydra.iohk.io/build/5400786/download/1/eutxoma.pdf
 
+> The Extended UTXO Model
+
+https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/).
+
 
 # Open Standards
 
