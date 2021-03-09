@@ -13,6 +13,6 @@ Further detail on the Comprehensive Non Fungible Token (NFT) Framework Collabora
 [Metadata](/Metadata)
 > This folder contains documentation on Cardano NFT-DAO Metadata subject area.
 
-[Media](/Media/README.md)
+[Media](/Media)
 > This folder contains documentation on Cardano NFT-DAO Media (Videos of meetings etc.)
 
