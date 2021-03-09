@@ -8,6 +8,8 @@ created:
 modified: 
 ---
 
+> These are my notes for my involvment to date in the NFT DAO Project.
+
 # Project Catalyst : Comprehensive NFT Framework Collab
 > Problem statement : 42 Catalyst proposals address NFT point solutions—yet we lack an overarching DApp strategy to dominate as the de facto NFT platform choice.
 > 
