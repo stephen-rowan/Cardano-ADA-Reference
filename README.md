@@ -8,4 +8,9 @@ Further detail on the Comprehensive Non Fungible Token (NFT) Framework Collabora
 
 > https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088
 
+# Contents
+
+[Metadata](/Metadata/README.md)
+
+[An intial Metadata proposal](#an-intial-metadata-proposal)
 
