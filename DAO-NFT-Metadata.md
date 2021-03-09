@@ -106,6 +106,14 @@ https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
 
 ## Metadata / Schema Notes 2/25/2021
 
+1. Define metadata standards
+2. Global schema
+3. NFT schema
+4. Define different levels of schema
+5. How is metadata structured.
+6. What needs to be on-chain.  What needs to be off-chain
+
+
 https://docs.google.com/document/d/1eKV7yPE3ng4SPSBW5uxLn_THaUMKL8vi5FBMWExUZ8s
 
 ***
