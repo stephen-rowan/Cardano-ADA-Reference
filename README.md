@@ -1,7 +1,11 @@
 
 # Cardano NFT DAO
 
-The NFT DAO Collaboration is an initiative to bring Non Fungible Token (NFT) capability to [Cardano](https://cardano.org/) using a Distributed Autonmous Organisational model.
+The NFT DAO Collaboration is an initiative to bring Non Fungible Token (NFT) capability to [Cardano](https://cardano.org/) using Distributed Autonmous Organisation (DAO).
+
+## What is a Non Fungible Token (NFT) ?
+
+## What is a Distributed Autonmous Organisation (DAO) ?
 
 
 ## Project Catalyst : A Comprehensive Non Fungible Token (NFT) Framework Collaboration
