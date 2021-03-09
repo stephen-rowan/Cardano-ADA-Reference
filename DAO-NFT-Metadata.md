@@ -35,6 +35,7 @@ https://github.com/NFT-DAO/NFT-Metadata
 
 > **Note** : The location of the official DAO-NFT-Metadata github.
 
+***
 
 ## An intial Metadata proposal 
 
@@ -82,6 +83,7 @@ https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-
 
 https://hydra.iohk.io/build/5737360/download/1/shelley-ma.pdf
 
+***
 
 # Open Standards
 
@@ -89,6 +91,7 @@ https://hydra.iohk.io/build/5737360/download/1/shelley-ma.pdf
 
 https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
 
+***
 
 # Use Cases
 
@@ -97,12 +100,15 @@ https://cardano.ideascale.com/a/dtd/Open-Standards-W3C-for-Cardano/338892-48088
 > https://en.wikipedia.org/wiki/Comedian_(artwork). 
 > 
 
+***
+
 # Current NFT-DAO Meeting Notes
 
 ## Metadata / Schema Notes 2/25/2021
 
 https://docs.google.com/document/d/1eKV7yPE3ng4SPSBW5uxLn_THaUMKL8vi5FBMWExUZ8s
 
+***
 
 # Other Current Metadata standards in progress
 
@@ -125,6 +131,7 @@ Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
 > How BlockRocket & KnownOrigin utilises ERC-721 metadata & IPFS to build a digital assets marketplace 
 https://medium.com/blockchain-manchester/erc-721-metadata-standards-and-ipfs-94b01fea2a89
 
+***
 
 # Further Metadata Reading
 
