@@ -109,12 +109,12 @@ https://docs.google.com/document/d/1eKV7yPE3ng4SPSBW5uxLn_THaUMKL8vi5FBMWExUZ8s
 
 https://blog.cosmos.network/progress-report-interchain-nft-metadata-standards-94770dfe3bb1
 
-Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
-
 > **Note** : This working group is already looking at metadata standards as applied to "Interchain NFTs" (Cross blockchain platform NFTs).
 > 
+> **Quote** "The metadata standard intends to make the representations about the past, current, or desired future states of an NFT resource machine-readable, machine understandable and verifiable. Regardless of where the metadata is located."
+> 
 
-> **Quote** The metadata standard intends to make the representations about the past, current, or desired future states of an NFT resource machine-readable, machine understandable and verifiable. Regardless of where the metadata is located.
+Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
 
 
 ### ERC-721 metadata standards and IPFS
