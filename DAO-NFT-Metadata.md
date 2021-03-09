@@ -150,6 +150,13 @@ https://blog.cosmos.network/progress-report-interchain-nft-metadata-standards-94
 
 Draft whitepaper : https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
 
+## xAPI
+
+> xAPI is an eLearning specification that makes it possible to collect data about the wide range of experiences a person has within online and offline training activities. xAPI’s use of a shared format for both the receiving and sending of data makes xAPI an ideal tool for sharing learning between multiple systems.
+
+https://xapi.com/
+
+
 
 ### ERC-721 metadata standards and IPFS
 
