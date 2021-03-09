@@ -12,11 +12,17 @@ modified:
 
 # Contents
 [The DAO NFT-Metadata github](#the-dao-nft-metadata-github)
-[An intial Metadata proposal]()
+
+[An intial Metadata proposal](#an-intial-metadata-proposal)
+
 [Open Standards]()
+
 [Use Cases]()
+
 [Current NFT-DAO Meeting Notes]()
+
 [Other Current Metadata standards in progress]()
+
 [Further Metadata Reading]()
 
 
