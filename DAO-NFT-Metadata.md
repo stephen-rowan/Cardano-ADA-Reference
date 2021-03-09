@@ -14,8 +14,10 @@ modified:
 
 https://github.com/NFT-DAO/NFT-Metadata
 
+Note : The location of the official DAO-NFT-Metadata github.
 
-## An intial Metadata proposal
+
+## An intial Metadata proposal 
 
 @alessandro [BERRY] proposes a metadata standard ...
 
