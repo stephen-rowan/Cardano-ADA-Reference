@@ -5,5 +5,5 @@
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
-T | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque blandit in libero at pellentesque.<br>Cras suscipit egestas tortor id lacinia. Maecenas blandit congue viverra.<br><br><ol><li>Coffee</li><li>Tea</li><li>Milk</li></ol> | #OWNER# | #DEADLINE#
+Discussion | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque blandit in libero at pellentesque.<br>Cras suscipit egestas tortor id lacinia. Maecenas blandit congue viverra.<br><br><ol><li>Coffee</li><li>Tea</li><li>Milk</li></ol> | #OWNER# | #DEADLINE#
 
