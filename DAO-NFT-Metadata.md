@@ -8,6 +8,8 @@ created:
 modified: 
 ---
 
+Please note that this document has now moved to the Metadata folder ([here](Metadata/DAO-NFT-Metadata-Discord-Discussion.md)).
+
 # DAO NFT-Metadata
 
 ***
