@@ -4,3 +4,5 @@ The Metadata thread (subject/section ?) of NFT DAO addresses xyz (a one or two s
 
 This is a draft of how the README.md of a repository of the NFT DAO github might look to new vistors.
 
+For Discussion go to https://github.com/NFT-DAO/NFT-Metadata/discussions
+
