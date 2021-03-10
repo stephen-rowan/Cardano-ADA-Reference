@@ -17,8 +17,8 @@ The only top-level file will be the README.md all other content will be in subje
 
 ## Documents
 
-For documenation of the metadata subject go to [Metadata/Documents](/Metadata/Documents/)
+For documentation of the metadata subject go to [Metadata/Documents](/Metadata/Documents/). Each folder will have its own README to guide users further.
 
 ## Developers
 
-For development of the metadata subject go to 
+For development of the metadata subject go to [Metadata/Development](/Metadata/Development/). Each folder will have its own README to guide users further.
