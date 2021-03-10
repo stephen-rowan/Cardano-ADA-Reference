@@ -1,4 +1,4 @@
-# Subject : Metadata github use and development
+# Subject : NFT-DAO Metadata github use and development
 
 ## General Discussions - 9th March, 2021
 * Michael Yagi, Stephen Whitenstall (shared on Discord/Zoom/github)
