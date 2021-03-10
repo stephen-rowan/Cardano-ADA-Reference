@@ -6,7 +6,9 @@ This is a rough draft of how a standard README.md of a repository of the NFT DAO
 
 ## Discussions
 
-For Discussion go to https://github.com/NFT-DAO/NFT-Metadata/discussions
+### General Discussion ? - go to https://github.com/NFT-DAO/NFT-Metadata/discussions
+### Ideas ? - go to https://github.com/NFT-DAO/NFT-Metadata/discussions/categories/ideas
+### Questions and Answers (Q&A) ?- go to https://github.com/NFT-DAO/NFT-Metadata/discussions/categories/q-a
 
 ## Documents
 
