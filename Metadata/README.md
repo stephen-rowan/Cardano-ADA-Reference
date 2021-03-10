@@ -6,6 +6,8 @@ This is a very rough draft of how a standard README.md of a repository of the NF
 
 The only top-level file will be the README.md all other content will be in subject folders on this repository (*reword/remove/replace this sentence*).
 
+Github supports relative weblinks e.g. > [a relative link](other_file.md)
+
 ## Discussions
 
 ### General Discussion ?
