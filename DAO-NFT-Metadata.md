@@ -8,7 +8,7 @@ created:
 modified: 
 ---
 
-Please note that this document has now moved to the Metadata folder ([here](Metadata/DAO-NFT-Metadata-Discord-Discussion.md)).
+Please note that this document has now moved to the Metadata folder ([here](Metadata/DAO-NFT-Metadata-Discord-Discussion.md)) and all NFT-DAO documentation will move to the [NFT-DAO github](https://github.com/NFT-DAO/NFT-Metadata) shortly.
 
 # DAO NFT-Metadata
 
