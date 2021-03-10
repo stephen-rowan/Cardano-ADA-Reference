@@ -7,5 +7,5 @@
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
-Discussion | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque blandit in libero at pellentesque.<br>Cras suscipit egestas tortor id lacinia. Maecenas blandit congue viverra.<br><br><ol><li>Coffee</li><li>Tea</li><li>Milk</li></ol> | #OWNER# | #DEADLINE#
+Discussion | Michael and Stephen discussed how github (and similair tools) could be used to capture content on the Metadata channel on the NFT-DAO Discord Server.<br><br><ol><li>Coffee</li><li>Tea</li><li>Milk</li></ol> | #OWNER# | #DEADLINE#
 
