@@ -4,7 +4,7 @@ The Metadata thread (*subject/section ?*) of NFT DAO addresses xyz (*create a on
 
 This is a very rough draft of how a standard README.md of a repository of the NFT DAO github might look to new visitors. This is a shared document, please amend any errors and add content.
 
-The only top-level file will be the README.md all other content will be in subject folders on this repository (*reword this sentence*).
+The only top-level file will be the README.md all other content will be in subject folders on this repository (*reword/remove/replace this sentence*).
 
 ## Discussions
 
