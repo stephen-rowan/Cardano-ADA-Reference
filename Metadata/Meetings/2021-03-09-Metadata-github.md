@@ -7,5 +7,5 @@
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
-Discussion | Michael and Stephen discussed how github (and similair tools) could be used to capture content on the Metadata channel on the NFT-DAO Discord Server.<br><br><ol><li>Coffee</li><li>Tea</li><li>Milk</li></ol> | #OWNER# | #DEADLINE#
+Discussion | **Michael** and **Stephen** discussed how github (and similar tools) could be used to capture content on the Metadata channel on the NFT-DAO Discord Server.<br><br><ol><li>**Michael** mentioned Bitbucket(?), Trello as tools to complement github.</li><li>Michael suggested using the **github discussions** feature in each Repository</li><li>Milk</li></ol> | #OWNER# | #DEADLINE#
 
