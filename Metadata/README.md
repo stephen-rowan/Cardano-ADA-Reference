@@ -12,6 +12,8 @@ Github supports relative weblinks ...
 [a relative link](other_file.md)
 ~~~
 
+> Note : Its possible to use YAML scripts to automatically update content on github pages (https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+
 ## Discussions
 
 ### General Discussion ?
