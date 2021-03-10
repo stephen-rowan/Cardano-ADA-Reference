@@ -9,11 +9,11 @@ The only top-level file will be the README.md all other content will be in subje
 ## Discussions
 
 ### General Discussion ?
-> go to https://github.com/NFT-DAO/NFT-Metadata/discussions
+> go to https://github.com/NFT-DAO/NFT-Metadata/discussions and join in.
 ### Ideas ?
-> go to https://github.com/NFT-DAO/NFT-Metadata/discussions/categories/ideas
+> go to https://github.com/NFT-DAO/NFT-Metadata/discussions/categories/ideas and join in.
 ### Questions and Answers (Q&A) ?
-> go to https://github.com/NFT-DAO/NFT-Metadata/discussions/categories/q-a
+> go to https://github.com/NFT-DAO/NFT-Metadata/discussions/categories/q-a and join in.
 
 ## Documents
 
