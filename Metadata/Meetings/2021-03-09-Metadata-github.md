@@ -1,6 +1,6 @@
-# Metadata github use and development
+# Subject : Metadata github use and development
 
-> Discussions - 9th March, 2021
+> General Discussions - 9th March, 2021
 > Michael Yagi, Stephen Whitenstall (on Discord/Zoom)
 >
 Type | Description | Owner | Deadline
