@@ -1,7 +1,7 @@
 # Subject : Metadata github use and development
 
 > General Discussions - 9th March, 2021
-> Michael Yagi, Stephen Whitenstall (on Discord/Zoom)
+> Michael Yagi, Stephen Whitenstall (shared on Discord/Zoom/github)
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
