@@ -1,10 +1,10 @@
 # DAO NFT-Metadata
 
-The Metadata thread (subject/section ?) of NFT DAO addresses xyz (''create a one or two sentence summary of this section''). 
+The Metadata thread (*subject/section ?*) of NFT DAO addresses xyz (*create a one or two sentence summary of this section*). 
 
-This is a very rough draft of how a standard README.md of a repository of the NFT DAO github might look to new visitors.
+This is a very rough draft of how a standard README.md of a repository of the NFT DAO github might look to new visitors. This is a shared document, pLease amend any errors and add content.
 
-The only top-level file will be the README.md all other content will be in subject folders on this repository (reword).
+The only top-level file will be the README.md all other content will be in subject folders on this repository (*reword this sentence*).
 
 ## Discussions
 
