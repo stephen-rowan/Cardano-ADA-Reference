@@ -3,7 +3,8 @@
 ## General Discussions - 9th March, 2021
 * Michael Yagi, Stephen Whitenstall (shared on Discord/Zoom/github)
  
-> This is an example of meeting miniutes. A less formal bulleted list could be used instead. Also links to videos, documents.
+> This is an example of meeting miniutes. Seperate Markdwon files for each meeting with naming convention YEAR-MONTH-DAY-SUBJECT (e.g. 2021-03-09-Metadata-github.md).
+> A less formal bulleted list could be used instead. Also links to videos, documents.
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
