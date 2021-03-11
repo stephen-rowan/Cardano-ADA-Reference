@@ -10,8 +10,14 @@ Further detail on the Comprehensive Non Fungible Token (NFT) Framework Collabora
 
 # Contents
 
+[Development](Development)
+> This folder contains Development documentation.
+
+[Documents](Documents)
+> This folder contains documents.
+
 [Metadata](Metadata)
-> This folder contains documentation on Cardano NFT-DAO Metadata subject area.
+> This folder contains documentation on the Metadata subject area.
 
 [Meetings](Meetings)
-> This folder contains documentation on Cardano NFT-DAO Meetings (Videos, minutes of meetings etc.)
+> This folder contains Meeting documentation (Videos, minutes of meetings etc.).
