@@ -9,6 +9,7 @@ These are my notes on all things Cardano/ADA
 ### Why Cardano ?
 
 https://why.cardano.org/en/
+
 https://why.cardano.org/en/introduction/motivation/
 
 ### Cardano Forum
