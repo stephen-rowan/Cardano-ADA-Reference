@@ -10,7 +10,7 @@ Further detail on the Comprehensive Non Fungible Token (NFT) Framework Collabora
 
 # Contents
 
-[Metadata](/Project Catalyst/Cardano NFT DAO/Metadata)
+[Metadata](/Project Catalyst/Cardano NFT DAO/Metadata/README.md)
 > This folder contains documentation on Cardano NFT-DAO Metadata subject area.
 
 [Media](/Media)
