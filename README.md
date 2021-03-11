@@ -16,6 +16,12 @@ https://why.cardano.org/en/introduction/motivation/
 
 https://forum.cardano.org/
 
+
+### Daedalus  Wallet
+> The open source wallet for ada, built to grow with the Cardano blockchain.
+
+https://daedaluswallet.io/en/
+
 ### Reddit
 
 https://www.reddit.com/r/cardano/
