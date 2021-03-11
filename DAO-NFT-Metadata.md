@@ -7,6 +7,7 @@
 ***
 
 # Contents
+
 [The DAO NFT-Metadata github](#the-dao-nft-metadata-github)
 
 [An intial Metadata proposal](#an-intial-metadata-proposal)
