@@ -1,1 +1,0 @@
-The Metadata Development README
