@@ -1,4 +1,4 @@
-# Cardano NFT DAO Media
+# Cardano NFT DAO Meetings
 
 
 ## NFT_DAO_Meeting_3/3/21
