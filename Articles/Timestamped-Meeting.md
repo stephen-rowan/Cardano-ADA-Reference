@@ -23,6 +23,6 @@
 > > 
 > Discussion : DEFI (Distributed Finance) [41.59](https://youtu.be/PuFTQ13-bT0?t=2519)
 > 
-> Discussion : Holonic Structures [44.40](https://youtu.be/PuFTQ13-bT0?t=2680)
+> Discussion : Holonic Structures/Autonomy [44.40](https://youtu.be/PuFTQ13-bT0?t=2680)
 > 
 
