@@ -10,8 +10,10 @@ Note *Possible one sentence summary under each inline meeting link*
 
 ## Timestamps (external links)
 
-* Introductions - [0.08](https://youtu.be/PuFTQ13-bT0?t=8)
-* Progress - Fund4 - [1.44](https://youtu.be/PuFTQ13-bT0?t=144)
-* Progress - Development - [2.16](https://youtu.be/PuFTQ13-bT0?t=216)
+### Introductions - [0.08](https://youtu.be/PuFTQ13-bT0?t=8)
+### Progress - Fund4 - [1.44](https://youtu.be/PuFTQ13-bT0?t=144)
+### Progress - Development - [2.16](https://youtu.be/PuFTQ13-bT0?t=216)
+#### Progress - Development - Boxcar - [2.16](https://youtu.be/PuFTQ13-bT0?t=216)
+#### Progress - Development - Partnerships - [3.05](https://youtu.be/PuFTQ13-bT0?t=305)
 
-* x
+
