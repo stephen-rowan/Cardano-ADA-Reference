@@ -18,4 +18,4 @@
 > Concept : Holons [14.56](https://youtu.be/PuFTQ13-bT0?t=896)
 #### Tokenization Model Discussion [15.49](https://youtu.be/PuFTQ13-bT0?t=949)
 > Concept : Collective Intelligence [33.34](https://youtu.be/PuFTQ13-bT0?t=2014)
-
+> Discussion : Collective Intelligence [39.11](https://youtu.be/PuFTQ13-bT0?t=2351)
