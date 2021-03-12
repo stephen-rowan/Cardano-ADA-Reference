@@ -22,3 +22,7 @@
 > Discussion : Collective Intelligence [39.11](https://youtu.be/PuFTQ13-bT0?t=2351)
 > > 
 > Discussion : DEFI (Distributed Finance) [41.59](https://youtu.be/PuFTQ13-bT0?t=2519)
+> 
+> Discussion : Holonic Structures [44.40](https://youtu.be/PuFTQ13-bT0?t=2680)
+> 
+
