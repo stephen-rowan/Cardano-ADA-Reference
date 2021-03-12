@@ -31,5 +31,5 @@ Here is a list of timestamps for this meeting (the links are external).
 > 
 > Discussion : Logo Holon - Branding [55.25](https://youtu.be/PuFTQ13-bT0?t=3325)
 > 
-> Concept : Testing consensus - [1:06:09](https://youtu.be/PuFTQ13-bT0?t=3969)
+> Concept : Testing/orchestrating consensus - [1:06:09](https://youtu.be/PuFTQ13-bT0?t=3969)
 > 
