@@ -15,5 +15,7 @@ Note *Possible one sentence summary under each inline meeting link*
 ### Progress - Development - [2.16](https://youtu.be/PuFTQ13-bT0?t=216)
 #### Progress - Development - Boxcar - [2.16](https://youtu.be/PuFTQ13-bT0?t=216)
 #### Progress - Development - Partnerships - [3.05](https://youtu.be/PuFTQ13-bT0?t=305)
+### Progress - Governance - [5.25](https://youtu.be/PuFTQ13-bT0?t=525)
+
 
 
