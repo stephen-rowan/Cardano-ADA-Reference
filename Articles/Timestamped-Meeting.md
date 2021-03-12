@@ -6,7 +6,7 @@
 ## Timestamps (external links)
 
 ### Introductions - [0.08](https://youtu.be/PuFTQ13-bT0?t=8)
-### Progress - Fund4 - [1.44](https://youtu.be/PuFTQ13-bT0?t=144)
+### Progress - Fund4 - [2.24](https://youtu.be/PuFTQ13-bT0?t=144)
 ### Progress - Development - [2.16](https://youtu.be/PuFTQ13-bT0?t=216)
 #### Progress - Development - Boxcar - [2.16](https://youtu.be/PuFTQ13-bT0?t=216)
 #### Progress - Development - Partnerships - [3.05](https://youtu.be/PuFTQ13-bT0?t=305)
@@ -17,3 +17,4 @@
 #### Progress - Governance - Business Plan -[8.32](https://youtu.be/PuFTQ13-bT0?t=832)
 > Concept : Holons [14.56](https://youtu.be/PuFTQ13-bT0?t=896)
 
+<iframe width="1423" height="561" src="https://www.youtube.com/embed/PuFTQ13-bT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
