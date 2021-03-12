@@ -14,9 +14,7 @@
 #### Progress - Governance - DAO Canon / Business Plan - [5.25](https://youtu.be/PuFTQ13-bT0?t=525)
 ##### LLC (DAO Limited Liability Company) Discussion - [6.96](https://youtu.be/PuFTQ13-bT0?t=696)
 > Reference : [Wyoming Legislature , Senate Corporations, Elections & Political Subdivisions Meeting March 9, 2021](https://www.youtube.com/watch?v=LCZXADsIbWs)
-
-
-#### Progress - Governance - Governance -[5.25](https://youtu.be/PuFTQ13-bT0?t=525)
+#### Progress - Governance - Governance -[8.32](https://youtu.be/PuFTQ13-bT0?t=832)
 
 
 
