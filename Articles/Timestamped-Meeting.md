@@ -20,3 +20,5 @@
 > Concept : Collective Intelligence [33.34](https://youtu.be/PuFTQ13-bT0?t=2014)
 > 
 > Discussion : Collective Intelligence [39.11](https://youtu.be/PuFTQ13-bT0?t=2351)
+> > 
+> Discussion : DEFI (Distributed Finance) [41.59](https://youtu.be/PuFTQ13-bT0?t=2519)
