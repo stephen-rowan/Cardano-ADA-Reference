@@ -30,4 +30,5 @@ Here is a list of timestamps for this meeting (the links are external).
 ### Discussion : NFT Development [51.23](https://youtu.be/PuFTQ13-bT0?t=3083)
 > 
 > Discussion : Logo Holon - Branding [55.25](https://youtu.be/PuFTQ13-bT0?t=3325)
+> Concept : Testing consenusus - [1:06:09](https://youtu.be/PuFTQ13-bT0?t=3969)
 > 
