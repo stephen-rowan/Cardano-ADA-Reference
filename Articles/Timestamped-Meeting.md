@@ -17,4 +17,3 @@
 #### Progress - Governance - Business Plan -[8.32](https://youtu.be/PuFTQ13-bT0?t=832)
 > Concept : Holons [14.56](https://youtu.be/PuFTQ13-bT0?t=896)
 
-<iframe width="1423" height="561" src="https://www.youtube.com/embed/PuFTQ13-bT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
