@@ -10,6 +10,5 @@ Possible one sentence summary under each inline meeting link
 
 ## Timestamps (external links)
 
-Introductions - [0.08](https://youtu.be/PuFTQ13-bT0?t=8)
-
-Progress - Fund4 - [1.44](https://youtu.be/PuFTQ13-bT0?t=144)
+* Introductions - [0.08](https://youtu.be/PuFTQ13-bT0?t=8)
+* Progress - Fund4 - [1.44](https://youtu.be/PuFTQ13-bT0?t=144)
