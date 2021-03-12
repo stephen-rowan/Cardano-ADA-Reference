@@ -12,7 +12,11 @@
 #### Progress - Development - Partnerships - [3.05](https://youtu.be/PuFTQ13-bT0?t=305)
 ### Progress - Governance - [5.25](https://youtu.be/PuFTQ13-bT0?t=525)
 #### Progress - Governance - DAO Canon / Business Plan - [5.25](https://youtu.be/PuFTQ13-bT0?t=525)
+##### LLC Discussion - [6.96](https://youtu.be/PuFTQ13-bT0?t=696)
+
+
 #### Progress - Governance - Governance -[5.25](https://youtu.be/PuFTQ13-bT0?t=525)
+
 
 
 
