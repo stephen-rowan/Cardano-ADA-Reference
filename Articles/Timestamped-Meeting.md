@@ -17,5 +17,5 @@
 #### Progress - Governance - Business Plan -[13.52](https://youtu.be/PuFTQ13-bT0?t=832)
 > Concept : Holons [14.56](https://youtu.be/PuFTQ13-bT0?t=896)
 > 
-> Tokenization Model [15.49](https://youtu.be/PuFTQ13-bT0?t=949)
+> Tokenization Model Discussion [15.49](https://youtu.be/PuFTQ13-bT0?t=949)
 
