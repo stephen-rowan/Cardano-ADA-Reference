@@ -16,5 +16,5 @@
 > Reference : [Wyoming Legislature , Senate Corporations, Elections & Political Subdivisions Meeting March 9, 2021](https://www.youtube.com/watch?v=LCZXADsIbWs)
 #### Progress - Governance - Business Plan -[13.52](https://youtu.be/PuFTQ13-bT0?t=832)
 > Concept : Holons [14.56](https://youtu.be/PuFTQ13-bT0?t=896)
-> Concept : Tokenization [15.49] https://youtu.be/PuFTQ13-bT0?t=949
+> Concept : Tokenization [15.49](https://youtu.be/PuFTQ13-bT0?t=949)
 
