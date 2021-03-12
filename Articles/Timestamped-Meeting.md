@@ -27,5 +27,5 @@
 > 
 ### Discussion : NTP/NFT(?) Development [51.23](https://youtu.be/PuFTQ13-bT0?t=3083)
 > 
-> Discussion : Logo Holon [55.25](https://youtu.be/PuFTQ13-bT0?t=3325)
+> Discussion : Logo Holon - Branding [55.25](https://youtu.be/PuFTQ13-bT0?t=3325)
 > 
