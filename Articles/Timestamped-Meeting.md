@@ -9,7 +9,7 @@
 ### Progress - Fund4 - [2.24](https://youtu.be/PuFTQ13-bT0?t=144)
 ### Progress - Development - [3.36](https://youtu.be/PuFTQ13-bT0?t=216)
 #### Progress - Development - Boxcar - [3.36](https://youtu.be/PuFTQ13-bT0?t=216)
-#### Progress - Development - Partnerships - [3.05](https://youtu.be/PuFTQ13-bT0?t=305)
+#### Progress - Development - Partnerships - [5.05](https://youtu.be/PuFTQ13-bT0?t=305)
 ### Progress - Governance - [5.25](https://youtu.be/PuFTQ13-bT0?t=525)
 #### Progress - Governance - DAO Canon / Business Plan - [5.25](https://youtu.be/PuFTQ13-bT0?t=525)
 ##### LLC (DAO Limited Liability Company) Discussion - [6.96](https://youtu.be/PuFTQ13-bT0?t=696)
