@@ -1,7 +1,7 @@
 
 # 10th March General NFT DAO Meeting
 
-Here is a list of timestamps for this meeting (the links are external).
+Here is a list of timestamps for this meeting (the links are external). Please amend if I have misheard or misinterpreted some content.
 
 [![](http://img.youtube.com/vi/PuFTQ13-bT0/0.jpg)](http://www.youtube.com/watch?v=PuFTQ13-bT0 "NFT-DAO meeting 3/10/21")
 
