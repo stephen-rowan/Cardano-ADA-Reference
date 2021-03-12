@@ -27,7 +27,7 @@ Here is a list of timestamps for this meeting (the links are external).
 > 
 > Discussion : Holonic Structures/Autonomy [44.40](https://youtu.be/PuFTQ13-bT0?t=2680)
 > 
-### Discussion : NTP/NFT(?) Development [51.23](https://youtu.be/PuFTQ13-bT0?t=3083)
+### Discussion : NFT Development [51.23](https://youtu.be/PuFTQ13-bT0?t=3083)
 > 
 > Discussion : Logo Holon - Branding [55.25](https://youtu.be/PuFTQ13-bT0?t=3325)
 > 
