@@ -2,6 +2,11 @@
 
 ## March 11, 2021
 
-[Cardano’s Extended UTXO accounting model – built to support multi-assets and smart contracts](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/)
+[Cardano’s Extended UTXO accounting model – built to support multi-assets and smart contracts](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) -  Fernando Sanchez
 
 > Cardano uses an innovative Extended UTXO accounting model to support multi-assets and smart contracts. In the first of a two-part blog, we look at the different blockchain accounting systems and why EUTXO matters
+
+## March 12, 2021
+[Cardano’s Extended UTXO accounting model – built to support multi-assets and smart contracts (part 2)](https://iohk.io/en/blog/posts/2021/03/12/cardanos-extended-utxo-accounting-model-part-2/) -  Fernando Sanchez
+
+> In the second part of our blog on Cardano’s EUTXO accounting model, we take a more technical look at transaction components, the UTXO set, and delve deeper into the rationale for Cardano’s EUTXO model
