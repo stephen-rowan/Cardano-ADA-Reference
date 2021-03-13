@@ -1,5 +1,7 @@
 # NFT-DAO NFT metadata standards
 
+https://cardano.ideascale.com/a/dtd/NFT-DAO-NFT-metadata-standards/341012-48088
+
 ## Problem statement :
 
 NFT use cases have varied metadata needs and schemas. We lack standards for alike NFTs to avoid complex, fragile systems & chaos at scale.
