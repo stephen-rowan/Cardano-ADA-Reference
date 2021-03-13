@@ -49,15 +49,27 @@ Problem: We see tens or potentially hundreds of projects all rushing to create t
 
 * Much like IOG, NFT-DAO will talk with experts from their industry to help create NFT standards that can best follow existing standards in each market
 
- 
-
 * After creating the NFT standard per industry, say art for example, it will be released in a RFC to the greater community and then eventually voted on using NFT-DAO (community, experts, governance token?) while prototyping in NFT-DAO's BOXCAR.
-
- 
 
 ## SCHEDULE AND FUNDING
 We have a comprehensive plan and schedule you can visit outside of IdeaScale. Currently IdeaScale isn't flexible for managing a living document. Please go to this link for the complete plan and deliverables: http://bit.ly/samemeta
 
-PARTNERING FOR SUCCESS WITH EXPERTS
+## PARTNERING FOR SUCCESS WITH EXPERTS
 
 We will partner our strong developers with the experts at the IOG Professional Services and MuNk.io engineers for the fastest paths to success.
+
+## TEAM NFT-DAO
+
+**Michael Yagi**, a senior software engineer with experience facilitating integration between different technologies across many different facets in a smooth, seamless fashion. He has a background in leading the development for projects that need to ship projects with many unknowns in a timely manner. His interest lie in building the bridge between the ocean and the pond (Cardano and "traditional" software engineering) as well as leveraging his game development background for NFT's in the game industry.
+
+**Finley McIlwaine**, a PhD candidate (UW) in computer science; a developer working in the University of Wyoming Advanced Blockchain Lab—a R&D lab focused on Formal Verification, Smart Contracts, and Secure Hardware related to Real-world Blockchain Applications funded by IOHK. Finley is very familiar with the Cardano ecosystem; and the winner of the IOHK Marlowe Challenge at WyoHackathon 2020 and Plutus Extension Challenge at WyoHackathon 2019.
+
+**Dmitri Safine**, a senior solutions architect with experience in cloud architecture, data engineering, R&D and prototyping in big data and analytics space. He has built numerous data lakes, ETL pipelines, multidimensional cubes and data analysis applications and passionate about identifying emerging technologies and composing them into a cohesive scalable solution which solves a particular problem. He is interested in researching NFT metadata implementation as a distributed RDF knowledge graph, with schemas engineered for a particular NFT domain that could potentially be expanded for solutions like powering AI agents of the future SingularityNet integration.
+
+119 Community Members n+1, are passionate about NFTs and has aligned themselves to a previous proposal seeking funding for a NFT point solution. They are eager to propose new use cases and work on a universal standard. Since none has existed for Cardano, they were planning to build one for themselves from scratch. They are one of ~120 individuals who could potentially pool their expertise into an all-embracing open-source version to benefit the entire community rather than one project. Their expertise is multivariate in development, SPO, marketing, design, business, and more.
+
+## Requested funds in USD 28648
+
+**Which of these definitions apply to you?** Entrepreneur, Marketing professional
+
+
