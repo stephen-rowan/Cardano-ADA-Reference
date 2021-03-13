@@ -1,4 +1,4 @@
-# Articles README
+# Articles concerning Cardano/ADA
 
 ## March 11, 2021
 
