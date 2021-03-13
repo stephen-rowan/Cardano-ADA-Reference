@@ -16,17 +16,12 @@ Detailed plan (not required) - Fill in here any additional details
 
 ### Define Metadata Standards for NFTs on Cardano
 ************************************************
-NFT use cases have varied metadata needs and schemas
-
-Defining universally acceptable standards is no small task
-
-We will engage industry experts to identify and define standards
-
-We will engage with industry consortiums
-
-We intent to document NFT metadata standards
-
-We will make an easy-to-use user interface for adding the metadata to NFTs
+* NFT use cases have varied metadata needs and schemas
+* Defining universally acceptable standards is no small task
+* We will engage industry experts to identify and define standards
+* We will engage with industry consortiums
+* We intent to document NFT metadata standards
+* We will make an easy-to-use user interface for adding the metadata to NFTs
 
 ## PLAN AND BUDGET
 
