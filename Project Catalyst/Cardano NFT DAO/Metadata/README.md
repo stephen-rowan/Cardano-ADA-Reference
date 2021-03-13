@@ -12,10 +12,7 @@ Engineers skilled in standards bodies and marketing team used to collaborating i
 Website/GitHub repository (not required) https://NFT-DAO.org
 Detailed plan (not required) - Fill in here any additional details
 
-*
-*
-*
-Define Metadata Standards for NFTs on Cardano
+### Define Metadata Standards for NFTs on Cardano
 ************************************************
 NFT use cases have varied metadata needs and schemas
 
@@ -47,8 +44,6 @@ Total: $28,648
 We have already started working on this within the NFT-DAO:
 
 Problem: We see tens or potentially hundreds of projects all rushing to create their own NFTs with varying metadata for their own needs depending on the use case trying to be the first to market. We don't see this is scalable as eventually there might be different metadata schemas for the same type of art piece or real estate property for example.
-
- 
 
 * Much like IOG, NFT-DAO will talk with experts from their industry to help create NFT standards that can best follow existing standards in each market
 
