@@ -8,6 +8,12 @@
 
 * [Metadata Workshop YouTube playlist](https://bit.ly/39Zvq3N)
 
+## Individual videos
+
+* [Metadata on the Cardano Blockchain](https://www.youtube.com/watch?v=UD5TEwla1lk&list=PLnPTB0CuBOBxjtuyI7sseODnMffpVHS2v&index=2)
+* [Encrypted Email as basis for distributed workflow](https://www.youtube.com/watch?v=tLJYZvIN2nk&list=PLnPTB0CuBOBxjtuyI7sseODnMffpVHS2v&index=3)
+* [Post Metadata to the Cardano Testnet blockchain from command line](https://www.youtube.com/watch?v=fxNx4W1_gro&list=PLnPTB0CuBOBxjtuyI7sseODnMffpVHS2v&index=4)
+
 
  
 
