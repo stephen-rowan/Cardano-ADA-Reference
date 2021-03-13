@@ -6,6 +6,10 @@ These are my notes on all things Cardano/ADA
 ## Key References
 
 
+### Cardano Forum
+
+https://forum.cardano.org/
+
 ### Why Cardano ?
 
 https://why.cardano.org/en/
