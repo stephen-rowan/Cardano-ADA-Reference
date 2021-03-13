@@ -38,3 +38,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Concept : Setting up a Canon - [1:14:54](https://youtu.be/PuFTQ13-bT0?t=4494)
 > 
 > Discussion : Logo voting processes [1:18:13](https://youtu.be/PuFTQ13-bT0?t=4693)
+> 
+> Concept : A malleable brand ? - [1:23:32](https://youtu.be/PuFTQ13-bT0?t=5012)
