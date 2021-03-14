@@ -5,6 +5,8 @@ These are my notes on all things Cardano/ADA
 
 ## Key References
 
+message.channel.send('Please take a look at this Discord Server channel <#CHANNELID>')
+
 
 ### Cardano Forum
 
