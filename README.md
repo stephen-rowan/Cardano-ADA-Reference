@@ -34,3 +34,8 @@ https://www.reddit.com/r/CardanoDevelopers/
 https://www.reddit.com/r/CardanoStakePools/
 
 https://www.reddit.com/r/Cardano_ELI5/
+
+### News Sites
+
+https://adapulse.io/
+> Founded in 2021, AdaPulse is an independent digital media resource covering projects and news within the Cardano ecosystem. 
