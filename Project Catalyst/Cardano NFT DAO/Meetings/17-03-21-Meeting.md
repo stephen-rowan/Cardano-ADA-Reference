@@ -112,4 +112,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [59.30](https://youtu.be/C07r9dfUItY?t=3570)
 > 
 
-* Long-term sustainbility of NFT-DAO - [1.01.27](https://youtu.be/C07r9dfUItY?t=3687) - Troy Egan
+* Business PLan - Core Values -Long-term sustainbility of NFT-DAO - [1.01.27](https://youtu.be/C07r9dfUItY?t=3687) - Troy Egan
+> Discussion - [59.30](https://youtu.be/C07r9dfUItY?t=3729) - Andrew
