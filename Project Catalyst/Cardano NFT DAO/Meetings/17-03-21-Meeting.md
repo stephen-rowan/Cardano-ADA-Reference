@@ -90,3 +90,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 * Concept - Manual Auctions [46.42](https://youtu.be/C07r9dfUItY?t=2802) - Rich Kopcho
 > Seperate the initial event, the auction of Non-Fungible Assets, from technological concerns.
+>
+> Discussion - [48.17](https://youtu.be/C07r9dfUItY?t=2897)
