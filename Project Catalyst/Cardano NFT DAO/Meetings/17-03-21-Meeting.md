@@ -43,3 +43,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > pool of artists invested in lockable governance tokens
 > 
 > **Reference** (?) - https://www.memetoken.net/
+> 
+> **xx** xx- [22.31](https://youtu.be/C07r9dfUItY?t=1351)
