@@ -26,7 +26,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 ## Business Models - [6.13](https://youtu.be/C07r9dfUItY?t=373) 
 * **Overview** - [6.24](https://youtu.be/C07r9dfUItY?t=384) - Rich Kopcho
 
-### Proposal - Initial Auction Plan - [8.15](https://youtu.be/C07r9dfUItY?t=495) - presented by ??
+### Proposal - Initial Auction Plan - [8.15](https://youtu.be/C07r9dfUItY?t=495) - presented by R??
 * **Initial Auction Plan** - [8.15](https://youtu.be/C07r9dfUItY?t=495) - presented by ??
 * **Ideas** - 1) Limited to artists committed to DAO, 2) Create source of revenue for DAO through revenue split, 3) possible revenue split, percentage share details, 4) two main collections, 5) percentages on future sales (10% artists, 5% DAO), 6) DAO approval on participation of artist but not selection of artworks, 7) percentage of overall sale contribution to be taken into account in awarding governance tokens at end of auction.
 > 
@@ -93,4 +93,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 >
 > Discussion - [48.17](https://youtu.be/C07r9dfUItY?t=2897)
 > 
-* Issue - xxxx [49.18](https://youtu.be/C07r9dfUItY?t=2958)
+* Issue - xxxx [49.18](https://youtu.be/C07r9dfUItY?t=2958) - R??
