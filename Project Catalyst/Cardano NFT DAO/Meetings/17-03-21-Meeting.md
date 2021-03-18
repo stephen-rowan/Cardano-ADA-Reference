@@ -12,7 +12,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
  
 ## 'Signatures' artwork - [0.47](https://youtu.be/C07r9dfUItY?t=47)- Rich Kopcho
 
-> Reference - Dropbox link https://www.dropbox.com/request/WoLjf5y6CcWJwDlU5gKK ([Discord context](https://discordapp.com/channels/804069702572965888/804069702572965891/819266517916975144))
+> Reference - [Dropbox link](https://www.dropbox.com/request/WoLjf5y6CcWJwDlU5gKK) -([Discord context](https://discordapp.com/channels/804069702572965888/804069702572965891/819266517916975144))
 
 > What do we do with them ? - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andrew
 
