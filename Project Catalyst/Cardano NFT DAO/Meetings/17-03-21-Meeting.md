@@ -71,4 +71,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [32.35](https://youtu.be/C07r9dfUItY?t=1955)
 
 > Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andrew
+> 
 > Soliciting established artists - [33.52]( https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan 
