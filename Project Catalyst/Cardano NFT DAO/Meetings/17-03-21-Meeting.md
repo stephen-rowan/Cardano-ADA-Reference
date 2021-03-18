@@ -14,4 +14,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 > What do we do with them ? - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andrew
 
-> Discussion - [0.59](https://youtu.be/C07r9dfUItY?t=78)- Andrew
+> Discussion - [1.18](https://youtu.be/C07r9dfUItY?t=78)
