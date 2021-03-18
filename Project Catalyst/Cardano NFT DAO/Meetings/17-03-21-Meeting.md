@@ -51,5 +51,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 > Governance versus utility tokens, short and long term revenue generation strategies
 > 
-> **Guidance** : The long-term business model [24.16](https://youtu.be/C07r9dfUItY?t=1456) - Rich Kopcho
+> **Guidance** : What is our long-term business model/strategy [24.16](https://youtu.be/C07r9dfUItY?t=1456) - Rich Kopcho
 
