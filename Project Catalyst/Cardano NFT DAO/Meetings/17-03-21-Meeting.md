@@ -115,4 +115,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 * Business PLan - Core Values -Long-term sustainbility of NFT-DAO - [1.01.27](https://youtu.be/C07r9dfUItY?t=3687) - Troy Egan
 > Should Branding focus simultaneously on both NFT and BOXCAR ? - [1.02.09](https://youtu.be/C07r9dfUItY?t=3729) - Andrew
 > 
-* xxx - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
+* Branding Infographic explanation - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
