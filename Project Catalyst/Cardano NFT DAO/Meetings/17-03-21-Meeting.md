@@ -93,4 +93,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 >
 > Discussion - [48.17](https://youtu.be/C07r9dfUItY?t=2897)
 > 
-* Issue - xxxx [49.18](https://youtu.be/C07r9dfUItY?t=2958) - R??
+* Issue - Revenue splits - what incentives are there for artists outside the DAO ? [49.18](https://youtu.be/C07r9dfUItY?t=2958) - R??
