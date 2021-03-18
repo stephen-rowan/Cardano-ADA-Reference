@@ -86,4 +86,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 > Reference - Cardano Roadmap - Goguen release - https://roadmap.cardano.org/en/goguen/
 > 
-> Discussion - [xx](https://youtu.be/C07r9dfUItY?t=2441)
+> Discussion - [45.19](https://youtu.be/C07r9dfUItY?t=2719)
