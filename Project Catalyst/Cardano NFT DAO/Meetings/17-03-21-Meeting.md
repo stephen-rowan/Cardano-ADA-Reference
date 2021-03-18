@@ -61,7 +61,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 * **Generating excitment with first release of NFT artworks** - [26.51](https://youtu.be/C07r9dfUItY?t=1611) - Rich Kopcho
 > 
- * Discussion - [28.07](https://youtu.be/C07r9dfUItY?t=1687)
+> Discussion - [28.07](https://youtu.be/C07r9dfUItY?t=1687)
 > 
 
- * xx - [28.18](https://youtu.be/C07r9dfUItY?t=1698)
+
