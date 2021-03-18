@@ -125,6 +125,8 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 * Logo update - [1.09.04](https://youtu.be/C07r9dfUItY?t=4144) -  Jens??
 > Brainstorm phase
 
-> Discussion - [1.10.11](https://youtu.be/C07r9dfUItY?t=4211)
+> Design and naming Discussion - [1.10.11](https://youtu.be/C07r9dfUItY?t=4211)
+> 
+
 
 
