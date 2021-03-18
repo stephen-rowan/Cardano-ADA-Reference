@@ -81,3 +81,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [40.41](https://youtu.be/C07r9dfUItY?t=2441)
 
 > A Mary Series or Mary Strategy - [44.33](https://youtu.be/C07r9dfUItY?t=2673) - Troy Egan 
+> 
+> A Mary Series or Mary Strategy - [45.01](https://youtu.be/C07r9dfUItY?t=2701) - Rich Kopcho
