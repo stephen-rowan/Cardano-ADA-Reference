@@ -96,4 +96,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 * Outsource (commission) the artwork - [49.59](https://youtu.be/C07r9dfUItY?t=2999) - October Black
 > Discussion - [50.26](https://youtu.be/C07r9dfUItY?t=3026s)
 * Who is going to be on the team ? - [52.33](https://youtu.be/C07r9dfUItY?t=3153) - Rich Kopcho
-> Discussion - [xxx](xxx)
+> Discussion - [52.41](https://youtu.be/C07r9dfUItY?t=3161)
