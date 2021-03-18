@@ -153,3 +153,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Equitable distribution of Governance tokens - [1.35.11](https://youtu.be/C07r9dfUItY?t=5711) - Rich Kopcho
 > 
 > Discussion - [1.35.57](https://youtu.be/C07r9dfUItY?t=5757)
+> 
+###  Any Other Business - [1.36.30](https://youtu.be/C07r9dfUItY?t=5790) - Rich Kopcho
