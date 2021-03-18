@@ -24,4 +24,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 > Discussion - [4.17](https://youtu.be/C07r9dfUItY?t=257)
 
-> xx - [6.13](https://youtu.be/C07r9dfUItY?t=373)
+## Business Models - [6.13](https://youtu.be/C07r9dfUItY?t=373) - Rich Kopcho
