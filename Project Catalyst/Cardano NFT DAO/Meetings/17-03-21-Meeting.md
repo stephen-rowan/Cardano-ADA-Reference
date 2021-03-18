@@ -116,4 +116,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Should Branding focus simultaneously on both NFT and BOXCAR ? - [1.02.09](https://youtu.be/C07r9dfUItY?t=3729) - Andrew
 > 
 * Branding Infographic explanation - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
-> NFT-DAO, BOXCAR branding.
+> NFT-DAO, BOXCAR branding. BOXCAR is become the comprehensive brand.
