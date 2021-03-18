@@ -120,7 +120,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Branding & Logo Discussion - [1.05.06](https://youtu.be/C07r9dfUItY?t=3906)
 > 
 * Scope of the dynamic logo design - [1.06.49](https://youtu.be/C07r9dfUItY?t=4009) - Rich Kopcho
-* Dynamic logo design limited to BOXCAR only - [1.07.19](https://youtu.be/C07r9dfUItY?t=4039) - ???
+* Dynamic logo design limited to BOXCAR only - [1.07.19](https://youtu.be/C07r9dfUItY?t=4039) - Jens???
 > Social media branding discussion  - [1.08.33](https://youtu.be/C07r9dfUItY?t=4113)
-
+* Logo update - [1.09.04](https://youtu.be/C07r9dfUItY?t=4144) -  Jens??
 
