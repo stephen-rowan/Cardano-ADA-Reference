@@ -59,4 +59,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 >
 > **Reference** - https://www.cnft.io/
 > 
-> **Discussion** - [26.51](https://youtu.be/C07r9dfUItY?t=1611)
+> **Creating momentum with artworks** - [26.51](https://youtu.be/C07r9dfUItY?t=1611) - Rich Kopcho
+> 
