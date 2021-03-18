@@ -33,4 +33,6 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 > Discussion on Initial Auction Plan- [13.23](https://youtu.be/C07r9dfUItY?t=803)
 > 
-> Distribution of rewards
+> Distribution of rewards and governance tokens - [17.39](https://youtu.be/C07r9dfUItY?t=1059)
+> 
+> xx - [xxx](https://youtu.be/C07r9dfUItY?t=1059) - Rich Kopcho
