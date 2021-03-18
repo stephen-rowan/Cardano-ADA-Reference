@@ -117,4 +117,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 * Branding Infographic explanation - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
 > NFT-DAO, BOXCAR branding. BOXCAR is become the comprehensive brand.
+> 
 > Discussion - [1.05.06](https://youtu.be/C07r9dfUItY?t=3906)
