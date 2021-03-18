@@ -156,3 +156,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 ###  Any Other Business - [1.36.30](https://youtu.be/C07r9dfUItY?t=5790) - Rich Kopcho
 > Ackowledge Red Hat Fans !
+> NFT-DAO - Video Premiere - [1.37.50](https://youtu.be/C07r9dfUItY?t=5870)
