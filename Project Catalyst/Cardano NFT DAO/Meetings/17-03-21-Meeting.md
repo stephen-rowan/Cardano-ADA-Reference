@@ -17,3 +17,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [1.18](https://youtu.be/C07r9dfUItY?t=78)
 
 > Where would we use this ? - [1.58](https://youtu.be/C07r9dfUItY?t=118)
+ 
+> Discussion - [2.20](https://youtu.be/C07r9dfUItY?t=140)
