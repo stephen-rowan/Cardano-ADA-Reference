@@ -95,4 +95,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 * Issue - Revenue splits - what incentives are there for artists outside the DAO ? [49.18](https://youtu.be/C07r9dfUItY?t=2958) - R??
 * Outsource (commission) the artwork - [49.59](https://youtu.be/C07r9dfUItY?t=2999) - October Black
 > Discussion - [50.26](https://youtu.be/C07r9dfUItY?t=3026s)
-* xx - [52.33](https://youtu.be/C07r9dfUItY?t=3153) - Rich Kopcho
+* Who is going to be on the team ? - [52.33](https://youtu.be/C07r9dfUItY?t=3153) - Rich Kopcho
+> Discussion - [xxx](xxx)
