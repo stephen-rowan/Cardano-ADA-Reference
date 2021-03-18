@@ -13,4 +13,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 ## Signatures - [0.47](https://youtu.be/C07r9dfUItY?t=47)- Rich Kopcho
 
 > What do we do with them ? - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andrew
+
 > Discussion - [0.59](https://youtu.be/C07r9dfUItY?t=78)- Andrew
