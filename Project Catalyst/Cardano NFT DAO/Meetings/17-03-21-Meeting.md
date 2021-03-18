@@ -6,11 +6,10 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 # Timestamps (external links)
 
-## Introductions - [0.03](https://youtu.be/C07r9dfUItY?t=3) - Rich Kopcho
-
+## Introductions - [0.03](https://youtu.be/C07r9dfUItY?t=3) 
 > Business Model Impact - [0.28](https://youtu.be/C07r9dfUItY?t=28) - Rich Kopcho
  
-## 'Signatures' artwork - [0.47](https://youtu.be/C07r9dfUItY?t=47)- Rich Kopcho
+## 'Signatures' artwork - [0.47](https://youtu.be/C07r9dfUItY?t=47)
 
 > Reference - [Dropbox link](https://www.dropbox.com/request/WoLjf5y6CcWJwDlU5gKK) -([Discord context](https://discordapp.com/channels/804069702572965888/804069702572965891/819266517916975144))
 
@@ -24,4 +23,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 > Discussion - [4.17](https://youtu.be/C07r9dfUItY?t=257)
 
-## Business Models - [6.13](https://youtu.be/C07r9dfUItY?t=373) - Rich Kopcho
+## Business Models - [6.13](https://youtu.be/C07r9dfUItY?t=373) 
