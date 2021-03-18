@@ -11,3 +11,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Business Model Impact - [0.28](https://youtu.be/C07r9dfUItY?t=28) - Rich Kopcho
  
 ## Signatures - [0.47](https://youtu.be/C07r9dfUItY?t=47)- Rich Kopcho
+
+> What do we do with them ? - [0.59](hhttps://youtu.be/C07r9dfUItY?t=59)- Andrew
