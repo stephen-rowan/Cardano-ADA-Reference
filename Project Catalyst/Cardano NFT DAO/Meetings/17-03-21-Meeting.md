@@ -141,3 +141,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
  
 ### Recap on Mary Artwork - - [1.29.06](https://youtu.be/C07r9dfUItY?t=5346) - Rich Kopcho
 > Update - [1.29.12](https://youtu.be/C07r9dfUItY?t=5352) - Andy
+> Ready by Monday 22nd / Tuesday 23rd
