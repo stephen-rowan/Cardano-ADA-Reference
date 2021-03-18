@@ -145,4 +145,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Ready by Monday 22nd / Tuesday 23rd
 > 
 
-### xx - [1.32.21](https://youtu.be/C07r9dfUItY?t=5541)
+### Recap on Business Model - [1.32.21](https://youtu.be/C07r9dfUItY?t=5541)  - Rich Kopcho
+>
