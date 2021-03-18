@@ -19,3 +19,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Where would we use this ? - [1.58](https://youtu.be/C07r9dfUItY?t=118)
  
 > 'Signatures' artwork - possibilities - [3.15](https://youtu.be/C07r9dfUItY?t=195) - Andrew
+
+> Discussion - [4.17](https://youtu.be/C07r9dfUItY?t=257)
