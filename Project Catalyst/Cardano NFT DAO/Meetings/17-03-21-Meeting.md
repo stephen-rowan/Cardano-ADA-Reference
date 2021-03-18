@@ -46,3 +46,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > **Reference** (?) - https://www.memetoken.net/
 > 
 > **Guidance** : Capture/summarize different business models [22.31](https://youtu.be/C07r9dfUItY?t=1351) - Rich Kopcho
+> 
+> **Discussion** - [23.14](https://youtu.be/C07r9dfUItY?t=1394)
+> 
+> Governance versus utility tokens, short and long term strategies
