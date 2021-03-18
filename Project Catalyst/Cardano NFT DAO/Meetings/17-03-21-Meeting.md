@@ -8,4 +8,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 ## Introductions - [0.03](https://youtu.be/C07r9dfUItY?t=3) - Rich Kopcho
 
-### Business Model Impact - [0.28](https://youtu.be/C07r9dfUItY?t=28) - Rich Kopcho
+> Business Model Impact - [0.28](https://youtu.be/C07r9dfUItY?t=28) - Rich Kopcho
