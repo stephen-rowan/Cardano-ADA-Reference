@@ -104,3 +104,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [55.21](https://youtu.be/C07r9dfUItY?t=3321)
 > 
 * BOXCAR - proof of concept - [56.04](https://youtu.be/C07r9dfUItY?t=3364) - Tyler Wales
+> Discussion - [57.02](https://youtu.be/C07r9dfUItY?t=3422)
