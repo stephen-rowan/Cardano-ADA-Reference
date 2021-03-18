@@ -123,4 +123,8 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 * Dynamic logo design limited to BOXCAR only - [1.07.19](https://youtu.be/C07r9dfUItY?t=4039) - Jens???
 > Social media branding discussion  - [1.08.33](https://youtu.be/C07r9dfUItY?t=4113)
 * Logo update - [1.09.04](https://youtu.be/C07r9dfUItY?t=4144) -  Jens??
+> Brainstorm phase
+
+> Discussion - [1.10.12](https://www.youtube.com/watch?v=C07r9dfUItY&t=4144s)
+
 
