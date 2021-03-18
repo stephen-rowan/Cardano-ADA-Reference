@@ -39,6 +39,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Revenue share to sustain business
 > 
 > **The 'meme' (?) token** - [20.35](https://youtu.be/C07r9dfUItY?t=1235) - Dan Verowski
+> 
 > pool of artists invested in lockable governance tokens
 > 
 > **Reference** (?) - https://www.memetoken.net/
