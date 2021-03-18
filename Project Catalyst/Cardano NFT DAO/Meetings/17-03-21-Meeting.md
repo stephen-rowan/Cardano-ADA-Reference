@@ -99,5 +99,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [52.41](https://youtu.be/C07r9dfUItY?t=3161)
 > 
 * The importance of Branding and transparency - [54.05](https://youtu.be/C07r9dfUItY?t=3245) - Tyler Wales
-
-Branding [54.25](https://youtu.be/C07r9dfUItY?t=3265) - Troy Egan 
+> Discussion - [54.25](https://youtu.be/C07r9dfUItY?t=3265)
