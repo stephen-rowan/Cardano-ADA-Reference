@@ -148,4 +148,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 ### Recap on Business Model - [1.32.21](https://youtu.be/C07r9dfUItY?t=5541)  - Rich Kopcho
 > Governance Holon Update - [1.32.46](https://youtu.be/C07r9dfUItY?t=5566) - Troy Egan
 
-> Discussion [1.33.48](https://youtu.be/C07r9dfUItY?t=5628)
+> Research on DAO Governance Models [1.33.48](https://youtu.be/C07r9dfUItY?t=5628)
