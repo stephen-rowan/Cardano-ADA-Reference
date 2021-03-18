@@ -128,6 +128,6 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 * Logo design and naming discussion - [1.10.11](https://youtu.be/C07r9dfUItY?t=4211)
 > Question : Thinking primers for a brand identity ? - [1.21.24](https://youtu.be/C07r9dfUItY?t=4884)
 
-* Final callout effort - [1.21.44](https://youtu.be/C07r9dfUItY?t=4904) - Troy Egan
+* Final callout effort for community involvment in logo design - [1.21.44](https://youtu.be/C07r9dfUItY?t=4904) - Troy Egan
 > Discussion - [1.22.37](https://youtu.be/C07r9dfUItY?t=4957)
 
