@@ -97,3 +97,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [50.26](https://youtu.be/C07r9dfUItY?t=3026s)
 ### Who is going to be on the team ? An auction Holon - [52.33](https://youtu.be/C07r9dfUItY?t=3153) - Rich Kopcho
 > Discussion - [52.41](https://youtu.be/C07r9dfUItY?t=3161)
+> 
+* The importance of Branding and transparency - [54.05](https://youtu.be/C07r9dfUItY?t=3245) - Tyler Wales
