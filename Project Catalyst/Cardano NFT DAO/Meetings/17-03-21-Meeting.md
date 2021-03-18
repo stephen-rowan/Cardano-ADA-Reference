@@ -38,40 +38,40 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 ### **Concept** : A DAO Business model - [18.45](https://youtu.be/C07r9dfUItY?t=1125) - Rich Kopcho
 > Revenue share to sustain business
 > 
-* **The 'meme' (?) token** - [20.35](https://youtu.be/C07r9dfUItY?t=1235) - Dan Verowski
+### **The 'meme' (?) token** - [20.35](https://youtu.be/C07r9dfUItY?t=1235) - Dan Verowski
 > 
 > pool of artists invested in lockable governance tokens
 > 
 > Reference (?) - https://www.memetoken.net/
 > 
-* **Guidance** : Capture/summarize different business models [22.31](https://youtu.be/C07r9dfUItY?t=1351) - Rich Kopcho
+### **Guidance** : Capture/summarize different business models [22.31](https://youtu.be/C07r9dfUItY?t=1351) - Rich Kopcho
 > 
 > Discussion - [23.14](https://youtu.be/C07r9dfUItY?t=1394)
 > 
 > Governance versus utility tokens, short and long term revenue generation strategies
 > 
-* **Guidance** : What is our long-term business model/strategy ? [24.16](https://youtu.be/C07r9dfUItY?t=1456) - Rich Kopcho
+### **Guidance** : What is our long-term business model/strategy ? [24.16](https://youtu.be/C07r9dfUItY?t=1456) - Rich Kopcho
 > 
 > Discussion - [25.33](https://youtu.be/C07r9dfUItY?t=1533)
 > 
-* **The cnft.io model (Cardano Non-Fungible Tokens)** - [26.07](https://youtu.be/C07r9dfUItY?t=1567) - Tyler Wales
+### **The cnft.io model (Cardano Non-Fungible Tokens)** - [26.07](https://youtu.be/C07r9dfUItY?t=1567) - Tyler Wales
 >
 > Reference - https://www.cnft.io/
 > 
-* **Generating excitment with first release of NFT artworks** - [26.51](https://youtu.be/C07r9dfUItY?t=1611) - Rich Kopcho
+### **Generating excitment with first release of NFT artworks** - [26.51](https://youtu.be/C07r9dfUItY?t=1611) - Rich Kopcho
 > 
 > Discussion - [28.07](https://youtu.be/C07r9dfUItY?t=1687)
 > 
 > Consistent theme for first release, promote on social media - [30.00](https://youtu.be/C07r9dfUItY?t=1800) - October Black
 > 
-* **Taking a decision** - [30.30](https://youtu.be/C07r9dfUItY?t=1830) - Rich Kopcho
+### **Taking a decision** - [30.30](https://youtu.be/C07r9dfUItY?t=1830) - Rich Kopcho
 > Summary, lead with Mary Hard Fork painting(s) auction.
 > 
 > Discussion - [32.35](https://youtu.be/C07r9dfUItY?t=1955)
 
 > Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andrew
 > 
-* **Existing Cardano NFT sites**
+### Existing Cardano NFT sites - [33.52]( https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan 
 * **Cardano Kidz** - [33.52]( https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan 
 > Reference : https://www.cardanokidz.com/
 > 
