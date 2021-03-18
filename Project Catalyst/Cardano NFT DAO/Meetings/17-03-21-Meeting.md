@@ -137,5 +137,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [1.26.35](https://youtu.be/C07r9dfUItY?t=5195)
 > 
 ### Recap on Auction Holon - [1.27.41](https://youtu.be/C07r9dfUItY?t=5261) - Rich Kopcho
-
 > Discussion - [1.27.55](https://youtu.be/C07r9dfUItY?t=5275)
+ 
+### Recap on Mary Artwork - - [1.29.06](https://youtu.be/C07r9dfUItY?t=5346) - Rich Kopcho
+> Update - [1.29.12](https://youtu.be/C07r9dfUItY?t=5352) - Andy
