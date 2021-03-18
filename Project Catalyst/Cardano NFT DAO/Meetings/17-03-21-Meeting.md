@@ -151,3 +151,5 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Hud (phd) & Research on DAO Governance Models [1.33.48](https://youtu.be/C07r9dfUItY?t=5628) - Rich Kopcho
 > 
 > Equitable distribution of Governance tokens - [1.35.11](https://youtu.be/C07r9dfUItY?t=5711) - Rich Kopcho
+> 
+> Discussion - [1.35.57](https://youtu.be/C07r9dfUItY?t=5757)
