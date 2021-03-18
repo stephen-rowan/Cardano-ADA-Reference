@@ -120,6 +120,6 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 > Branding & Logo Discussion - [1.05.06](https://youtu.be/C07r9dfUItY?t=3906)
 > 
-> xx - [1.06.49](https://youtu.be/C07r9dfUItY?t=4009)
+> Scope of the dynamic logo design - [1.06.49](https://youtu.be/C07r9dfUItY?t=4009)
 
 
