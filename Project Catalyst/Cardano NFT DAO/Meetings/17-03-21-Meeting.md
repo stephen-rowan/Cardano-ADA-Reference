@@ -114,15 +114,15 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 ### Business Plan - Core Values - Long-term Sustainability of NFT-DAO - [1.01.27](https://youtu.be/C07r9dfUItY?t=3687) - Troy Egan
 > Should Branding focus simultaneously on both NFT and BOXCAR ? - [1.02.09](https://youtu.be/C07r9dfUItY?t=3729) - Andrew
 > 
-* Branding Infographic explanation - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
+### Branding Infographic explanation - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
 > NFT-DAO, BOXCAR branding. BOXCAR is become the comprehensive brand.
 > 
 > Branding & Logo Discussion - [1.05.06](https://youtu.be/C07r9dfUItY?t=3906)
 > 
-* Scope of the dynamic logo design - [1.06.49](https://youtu.be/C07r9dfUItY?t=4009) - Rich Kopcho
+### Scope of the dynamic logo design - [1.06.49](https://youtu.be/C07r9dfUItY?t=4009) - Rich Kopcho
 * Dynamic logo design limited to BOXCAR only - [1.07.19](https://youtu.be/C07r9dfUItY?t=4039) - Jens
 > Social media branding discussion  - [1.08.33](https://youtu.be/C07r9dfUItY?t=4113)
-* Logo update - [1.09.04](https://youtu.be/C07r9dfUItY?t=4144) -  Jens
+### Logo update - [1.09.04](https://youtu.be/C07r9dfUItY?t=4144) -  Jens
 > Brainstorm phase
 
 * Logo design and naming discussion - [1.10.11](https://youtu.be/C07r9dfUItY?t=4211)
