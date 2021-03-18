@@ -102,3 +102,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [54.25](https://youtu.be/C07r9dfUItY?t=3265)
 * The NFT art bubble - [54.33](https://youtu.be/C07r9dfUItY?t=3273) - R??
 > Discussion - [55.21](https://youtu.be/C07r9dfUItY?t=3321)
+> BOXCAR - [56.04](https://youtu.be/C07r9dfUItY?t=3364) - Tyler Wales
