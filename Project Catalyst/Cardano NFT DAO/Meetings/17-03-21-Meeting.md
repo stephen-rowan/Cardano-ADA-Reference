@@ -6,4 +6,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 ## Timestamps (external links)
 
-### Introductions - [0.08](https://youtu.be/PuFTQ13-bT0?t=8)
+### Introductions - [0.03](https://youtu.be/C07r9dfUItY?t=3)
