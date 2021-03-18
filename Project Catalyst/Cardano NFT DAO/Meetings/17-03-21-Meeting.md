@@ -11,17 +11,17 @@ Here is a list of timestamps for this meeting (the links are external). Please a
  
 ## 'Signatures' artwork - [0.47](https://youtu.be/C07r9dfUItY?t=47)
 
-> **Reference** - [Dropbox link](https://www.dropbox.com/request/WoLjf5y6CcWJwDlU5gKK) -([Discord context](https://discordapp.com/channels/804069702572965888/804069702572965891/819266517916975144))
+> Reference - [Dropbox link](https://www.dropbox.com/request/WoLjf5y6CcWJwDlU5gKK) -([Discord context](https://discordapp.com/channels/804069702572965888/804069702572965891/819266517916975144))
 
-> What do we do with them ? - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andrew
+> **What do we do with them ?** - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andrew
 
-> **Discussion** - [1.18](https://youtu.be/C07r9dfUItY?t=78)
+> Discussion - [1.18](https://youtu.be/C07r9dfUItY?t=78)
 
-> Where would we use this ? - [1.58](https://youtu.be/C07r9dfUItY?t=118)
+> **Where would we use this ?** - [1.58](https://youtu.be/C07r9dfUItY?t=118)
  
-> 'Signatures' artwork - possibilities - [3.15](https://youtu.be/C07r9dfUItY?t=195) - Andrew
+> **'Signatures' artwork - possibilities** - [3.15](https://youtu.be/C07r9dfUItY?t=195) - Andrew
 
-> **Discussion** - [4.17](https://youtu.be/C07r9dfUItY?t=257)
+> Discussion - [4.17](https://youtu.be/C07r9dfUItY?t=257)
 
 ## Business Models - [6.13](https://youtu.be/C07r9dfUItY?t=373) 
 > **Overview** - [6.24](https://youtu.be/C07r9dfUItY?t=384) - Rich Kopcho
@@ -31,7 +31,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > **Ideas** - 1) Limited to artists committed to DAO, 2) Create source of revenue for DAO through revenue split, 3) possible revenue split, percentage share details, 4) two main collections, 5) percentages on future sales (10% artists, 5% DAO), 6) DAO approval on participation of artist but not selection of artworks, 7) percentage of overall sale contribution to be taken into account in awarding governance tokens at end of auction.
 > 
 
-> **Discussion** on Initial Auction Plan- [13.23](https://youtu.be/C07r9dfUItY?t=803)
+> Discussion of Initial Auction Plan- [13.23](https://youtu.be/C07r9dfUItY?t=803)
 > 
 > Distribution of rewards and governance tokens - [17.39](https://youtu.be/C07r9dfUItY?t=1059)
 > 
@@ -43,23 +43,23 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 > pool of artists invested in lockable governance tokens
 > 
-> **Reference** (?) - https://www.memetoken.net/
+> Reference (?) - https://www.memetoken.net/
 > 
 > **Guidance** : Capture/summarize different business models [22.31](https://youtu.be/C07r9dfUItY?t=1351) - Rich Kopcho
 > 
-> **Discussion** - [23.14](https://youtu.be/C07r9dfUItY?t=1394)
+> Discussion - [23.14](https://youtu.be/C07r9dfUItY?t=1394)
 > 
 > Governance versus utility tokens, short and long term revenue generation strategies
 > 
 > **Guidance** : What is our long-term business model/strategy ? [24.16](https://youtu.be/C07r9dfUItY?t=1456) - Rich Kopcho
 > 
-> **Discussion** - [25.33](https://youtu.be/C07r9dfUItY?t=1533)
+> Discussion - [25.33](https://youtu.be/C07r9dfUItY?t=1533)
 > 
 > **The cnft.io model (Cardano Non-Fungible Tokens)** - [26.07](https://youtu.be/C07r9dfUItY?t=1567) - ??
 >
-> **Reference** - https://www.cnft.io/
+> Reference - https://www.cnft.io/
 > 
-> Generating excitment with first release of NFT artworks - [26.51](https://youtu.be/C07r9dfUItY?t=1611) - Rich Kopcho
+> **Generating excitment with first release of NFT artworks** - [26.51](https://youtu.be/C07r9dfUItY?t=1611) - Rich Kopcho
 > 
-> **Discussion** - [28.07](https://youtu.be/C07r9dfUItY?t=1687)
+> Discussion - [28.07](https://youtu.be/C07r9dfUItY?t=1687)
 > 
