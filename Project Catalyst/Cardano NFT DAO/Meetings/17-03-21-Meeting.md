@@ -132,3 +132,6 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > Discussion - [1.22.37](https://youtu.be/C07r9dfUItY?t=4957)
 
 ### Recap on Logo Design Holon  - [1.25.53](https://youtu.be/C07r9dfUItY?t=5153) - Rich Kopcho
+> We have taken a decision that Jens is running the Design Holon inside of the Marketing Holon and will determine a deadline for contributions.
+> 
+> Discussion - [1.26.35](https://youtu.be/C07r9dfUItY?t=5195)
