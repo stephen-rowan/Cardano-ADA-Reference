@@ -108,4 +108,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 * Educating the public on NFTs - [57.31](https://youtu.be/C07r9dfUItY?t=3451) - Troy Egan
 > NFTs in the long-term
 
-* Public misconcptions about Proof of stake - [58.55](https://youtu.be/C07r9dfUItY?t=3535) - October Black
+* Educating the public on difference between Proof Of Work and Proof Of Stake - [58.55](https://youtu.be/C07r9dfUItY?t=3535) - October Black
