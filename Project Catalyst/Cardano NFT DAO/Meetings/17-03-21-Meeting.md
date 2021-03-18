@@ -10,7 +10,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 > Business Model Impact - [0.28](https://youtu.be/C07r9dfUItY?t=28) - Rich Kopcho
  
-## Signatures artwork - [0.47](https://youtu.be/C07r9dfUItY?t=47)- Rich Kopcho
+## 'Signatures' artwork - [0.47](https://youtu.be/C07r9dfUItY?t=47)- Rich Kopcho
 
 > What do we do with them ? - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andrew
 
@@ -18,4 +18,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 > Where would we use this ? - [1.58](https://youtu.be/C07r9dfUItY?t=118)
  
-> Discussion - [2.20](https://youtu.be/C07r9dfUItY?t=140)
+> 'Signatures' artwork - possibilities - [3.15](https://youtu.be/C07r9dfUItY?t=195) - Andrew
