@@ -55,7 +55,7 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 > Discussion - [25.33](https://youtu.be/C07r9dfUItY?t=1533)
 > 
-* **The cnft.io model (Cardano Non-Fungible Tokens)** - [26.07](https://youtu.be/C07r9dfUItY?t=1567) - ??
+* **The cnft.io model (Cardano Non-Fungible Tokens)** - [26.07](https://youtu.be/C07r9dfUItY?t=1567) - Tyler Wales
 >
 > Reference - https://www.cnft.io/
 > 
