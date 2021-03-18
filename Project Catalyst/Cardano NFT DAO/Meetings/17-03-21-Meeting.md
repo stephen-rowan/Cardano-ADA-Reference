@@ -65,6 +65,6 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 > Consistent theme for first release, promote on social media - [30.00](https://youtu.be/C07r9dfUItY?t=1800) - October Black
 > 
-* **xxxx** - [30.30](https://youtu.be/C07r9dfUItY?t=1830) - Rich Kopcho
+* **Taking a decision** - [30.30](https://youtu.be/C07r9dfUItY?t=1830) - Rich Kopcho
 
 
