@@ -45,4 +45,4 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 > 
 > **Reference** (?) - https://www.memetoken.net/
 > 
-> **xx** xx- [22.31](https://youtu.be/C07r9dfUItY?t=1351)
+> **Guidance** Capture/summarize different business models [22.31](https://youtu.be/C07r9dfUItY?t=1351) - Rich Kopcho
