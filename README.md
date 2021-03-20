@@ -39,3 +39,16 @@ https://www.reddit.com/r/Cardano_ELI5/
 
 https://adapulse.io/
 > Founded in 2021, AdaPulse is an independent digital media resource covering projects and news within the Cardano ecosystem. 
+> 
+
+## Licencing
+
+
+## Licensing
+
+See [LICENSE](LICENSE.txt) file. Cardano-ADA-Reference is licensed under the Apache license. 
+
+## Contributions
+
+See [CONTRIBUTIONS](CONTRIBUTIONS.md). Prototype
+
