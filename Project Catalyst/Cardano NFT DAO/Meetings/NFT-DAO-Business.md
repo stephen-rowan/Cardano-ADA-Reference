@@ -4,11 +4,11 @@ Here is a list of timestamps for this meeting (the links are external). Please a
 
 https://www.youtube.com/watch?v=wnaXlv9onAo
 
-# Timestamps (external links)
+Note : Timestamps are external links.
 
 # Introductions - [0.44](https://youtu.be/wnaXlv9onAo?t=44) 
 
-
+# Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151)
 
  
 ## 'Signatures' artwork - [0.47](https://youtu.be/C07r9dfUItY?t=47)
