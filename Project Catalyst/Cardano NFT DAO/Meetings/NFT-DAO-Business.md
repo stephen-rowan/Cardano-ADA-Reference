@@ -24,5 +24,7 @@ https://discordapp.com/channels/804069702572965888/815810627497885696/8235087740
 ## Community Feedback - [5.03](https://youtu.be/wnaXlv9onAo?t=303) - Troy 
 
 ## Analysis - [5.18](https://youtu.be/wnaXlv9onAo?t=318) - Troy 
+> Common Themes
+
 
 
