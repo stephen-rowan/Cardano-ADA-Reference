@@ -13,7 +13,7 @@ Note : Timestamps are external links.
 
 https://cdn.discordapp.com/attachments/815810627497885696/823508774291374140/NFT-DAO_Business_Planning_Agenda_22-3-21.pdf
 
-Discord context :
+Discord context (Business Planning Channel):
 
 https://discordapp.com/channels/804069702572965888/815810627497885696/823508774068158515
 
@@ -23,6 +23,6 @@ https://discordapp.com/channels/804069702572965888/815810627497885696/8235087740
 
 ## Community Feedback - [5.03](https://youtu.be/wnaXlv9onAo?t=303) - Troy 
 
-
+## Analysis - [5.18](https://youtu.be/wnaXlv9onAo?t=318) - Troy 
 
 
