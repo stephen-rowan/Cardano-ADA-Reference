@@ -8,7 +8,7 @@ Note : Timestamps are external links.
 
 # Introductions - [0.44](https://youtu.be/wnaXlv9onAo?t=44) 
 
-# Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151)
+# Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151) - Troy 
 > Reference
 
 https://cdn.discordapp.com/attachments/815810627497885696/823508774291374140/NFT-DAO_Business_Planning_Agenda_22-3-21.pdf
@@ -16,4 +16,6 @@ https://cdn.discordapp.com/attachments/815810627497885696/823508774291374140/NFT
 Discord context :
 
 https://discordapp.com/channels/804069702572965888/815810627497885696/823508774068158515
+
+
 
