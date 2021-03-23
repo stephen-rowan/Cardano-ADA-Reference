@@ -9,9 +9,11 @@ Note : Timestamps are external links.
 # Introductions - [0.44](https://youtu.be/wnaXlv9onAo?t=44) 
 
 # Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151)
+> Reference
 
- 
-## 'Signatures' artwork - [0.47](https://youtu.be/C07r9dfUItY?t=47)
+https://cdn.discordapp.com/attachments/815810627497885696/823508774291374140/NFT-DAO_Business_Planning_Agenda_22-3-21.pdf
 
-> Reference - [Dropbox link](https://www.dropbox.com/request/WoLjf5y6CcWJwDlU5gKK) -([Discord context](https://discordapp.com/channels/804069702572965888/804069702572965891/819266517916975144))
+Discord context :
+
+https://discordapp.com/channels/804069702572965888/815810627497885696/823508774068158515
 
