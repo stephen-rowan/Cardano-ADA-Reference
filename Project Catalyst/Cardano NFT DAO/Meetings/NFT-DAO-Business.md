@@ -24,6 +24,14 @@ https://discordapp.com/channels/804069702572965888/815810627497885696/8235087740
 ## Community Feedback - [5.03](https://youtu.be/wnaXlv9onAo?t=303) - Troy 
 
 ## Analysis - [5.18](https://youtu.be/wnaXlv9onAo?t=318) - Troy 
+> Reference
+> Governance Holon –Update(17-3-21)
+https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance_Holon_Update_17-3-21.pdf
+
+Discord context (Business Planning Channel):
+
+https://discordapp.com/channels/804069702572965888/815810627497885696/821886601885909003
+
 > Common Themes
 
 
