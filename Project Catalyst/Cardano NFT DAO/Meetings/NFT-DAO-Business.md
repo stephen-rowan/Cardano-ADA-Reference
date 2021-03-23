@@ -19,9 +19,9 @@ https://discordapp.com/channels/804069702572965888/815810627497885696/8235087740
 
 > Summary
 
-## Governance HOLON update - [4.17](https://youtu.be/wnaXlv9onAo?t=257)
+## Governance HOLON update - [4.17](https://youtu.be/wnaXlv9onAo?t=257) - Troy 
 
-## Community Feedback - [5.03](https://youtu.be/wnaXlv9onAo?t=303)
+## Community Feedback - [5.03](https://youtu.be/wnaXlv9onAo?t=303) - Troy 
 
 
 
